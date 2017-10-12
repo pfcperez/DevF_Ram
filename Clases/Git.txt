@@ -1,0 +1,12 @@
+
+Git
+Commit
+1 - git add .
+2 - git commit -a -m "Comentario"
+3 - git push Rama
+
+Branch
+
+1- Git fetch para actualziar
+2 - Cambiar a la rama, git checkout Dev
+3 - git branch -r
